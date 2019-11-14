@@ -1,0 +1,27 @@
+.data {
+  padding-left: 20px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #F5F5F5;
+}
+a.action_link {
+  text-decoration: none;
+}
+
+.resimg {
+  float: left;
+  margin-right: 15px;
+}
+
+
+.horizontal-center-row {
+  display: flex;
+  justify-content: center;
+}
+
+.rating {
+  float: right;
+  margin-right: 15px;
+}
+    
