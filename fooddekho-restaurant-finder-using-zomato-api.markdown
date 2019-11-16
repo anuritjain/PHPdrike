@@ -1,4 +1,4 @@
-FoodDekho  - Restaurant Finder  using  Zomato API
+Restaurant Finder  using  Zomato API
 -------------------------------------------------
 
 
